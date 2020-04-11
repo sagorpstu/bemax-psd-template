@@ -248,7 +248,9 @@ a:hover{
 	display: inline-block;
 	font-weight: bolder;
 }
-
+.owl-nav button:focus{
+	outline: none;
+}
 .owl-dots{
 	position: absolute;
 	bottom: 100px;
