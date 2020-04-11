@@ -164,6 +164,9 @@
      display: none;
  }
 
+.single-video img {
+	width: 140%;
+}
 
  .blog-image {
      width: 50%;
